@@ -13,3 +13,4 @@ placeholder
 12|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774358794|Cheat Engine detected. |Chrome.exe (CE DLL detected in exe folder)||Process terminated
 13|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774359200|Cheat Engine detected. |Amazon.exe (CE DLL detected in exe folder)||Process terminated
 14|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774359458|Cheat Engine detected. |SHAHADAT AHMED.exe (CE DLL detected in exe folder)||Process terminated
+15|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774359662|Cheat Engine detected. |Amazon.exe (CE DLL detected in exe folder)||Process terminated
