@@ -14,9 +14,10 @@ placeholder
 13|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774359200|Cheat Engine detected. |Amazon.exe (CE DLL detected in exe folder)||Process terminated
 14|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774359458|Cheat Engine detected. |SHAHADAT AHMED.exe (CE DLL detected in exe folder)||Process terminated
 15|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774359662|Cheat Engine detected. |Amazon.exe (CE DLL detected in exe folder)||Process terminated
-16|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774361447|Cheat Engine detected. |steam.exeÃƒâ€šÃ‚Â  (CE DLL detected in exe folder)||Process terminated
-17|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774367579|Cheat Engine detected. |steam.exeÃ‚Â  (CE DLL detected in exe folder)||Process terminated
-18|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774368565|Cheat Engine detected. |steam.exeÂ  (CE DLL detected in exe folder)||Process terminated
-19|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774369046|Cheat Engine detected. |steam.exe  (CE DLL detected in exe folder)||Process terminated
+16|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774361447|Cheat Engine detected. |steam.exeÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â  (CE DLL detected in exe folder)||Process terminated
+17|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774367579|Cheat Engine detected. |steam.exeÃƒâ€šÃ‚Â  (CE DLL detected in exe folder)||Process terminated
+18|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774368565|Cheat Engine detected. |steam.exeÃ‚Â  (CE DLL detected in exe folder)||Process terminated
+19|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774369046|Cheat Engine detected. |steam.exeÂ  (CE DLL detected in exe folder)||Process terminated
 20|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774419801|Cheat Engine detected. |steam.exe (CE DLL detected in exe folder)||Process terminated
-21|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774428794|Cheat Engine detected. |steam.exe� (CE DLL detected in exe folder)||Process terminated
+21|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774428794|Cheat Engine detected. |steam.exe  (CE DLL detected in exe folder)||Process terminated
+22|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774429974|Cheat Engine detected. |steam.exe� (CE DLL detected in exe folder)||Process terminated
