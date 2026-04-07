@@ -29,4 +29,5 @@ placeholder
 28|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1774798263|Cheat Engine detected. |||Process terminated
 29|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1775049528|Cheat Engine detected. |steam.exeï¿½ (CE DLL detected in exe folder)||Process terminated
 30|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1775272915|Cheat Engine detected. |Chrome.exe (CE DLL detected in exe folder)||Process terminated
-31|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1775591044|Cheat Engine detected. |steam.exe  (CE DLL detected in exe folder)||Process terminated
+31|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1775591044|Cheat Engine detected. |steam.exeï¿½ (CE DLL detected in exe folder)||Process terminated
+32|CHEAT_ENGINE_DETECTED|CRITICAL|S-1-5-21-4186512261-3085102322-680795051-1001|timestamp=1775591056|Cheat Engine detected. |steam.exe  (CE DLL detected in exe folder)||Process terminated
