@@ -5,3 +5,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"System Hook Detected (NtQuerySystemInformation)"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Blacklisted Window Class: MainWindowClassName"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Process Hacker Component Detected (PhTreeNew)"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering at GameCode@4198400 (offset 0x3D2B13)"}
