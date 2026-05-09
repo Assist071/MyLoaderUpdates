@@ -1,1 +1,2 @@
 
+{"hwid":"HWID-PC1-4GHUB","log":"Malicious Tool Detected (Killed PID: 4294967295)"}
