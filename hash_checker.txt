@@ -1,5 +1,4 @@
 {
   "entries": [
-    {"hash":"8cce33128b7f6e5eb52d34662b7431fa355a9407ff90ce827e21fef5684567a5","game":"RAN ONLINE","dll":"audioses.dll","status":"active","date":"2026-05-10"}
   ]
 }
