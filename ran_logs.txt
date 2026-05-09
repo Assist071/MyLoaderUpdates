@@ -1,1 +1,2 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"System Hook Detected (NtQuerySystemInformation)","date":"05/10/2026 05:22:31 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Unauthorized DLL Found in Game Folder: audioses.dll","date":"05/10/2026 05:22:33 AM"}
