@@ -1,5 +1,4 @@
 {
   "entries": [
-    {"hash":"NONE","game":"PLACEHOLDER","dll":"NONE","status":"blocked","date":"2026-05-10"}
   ]
 }
