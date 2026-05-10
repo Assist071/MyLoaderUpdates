@@ -7,3 +7,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Blocked Unauthorized Managed Runtime (.NET): dinput8.dll","date":"05/10/2026 10:54:30 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Blocked Suspicious DLL: chiiiiter.dll","date":"05/10/2026 10:55:46 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Blocked Suspicious DLL: chiiiiter.dll","date":"05/10/2026 10:57:26 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Dangerous Handle Detected (PID: 16940)","date":"05/11/2026 01:14:39 AM"}
