@@ -1,1 +1,0 @@
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory region decommitted: d3dcompiler_43.dll!.text","date":"05/10/2026 03:16:46 PM"}
