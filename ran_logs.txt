@@ -5,3 +5,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Detection: System Hook Detected (NtQuerySystemInformation)","date":"05/10/2026 12:52:22 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Detection: Unauthorized DLL Found in Game Folder: D3dx9d_43.dll","date":"05/10/2026 12:53:10 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Detection: DLL Hijack/Proxy Detected: dbghelp.dll","date":"05/10/2026 12:57:37 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Detection: DLL Hijack/Proxy Detected: dbghelp.dll","date":"05/10/2026 01:04:04 PM"}
