@@ -1,5 +1,5 @@
 {
   "entries": [
-    {"hash":"5dd79bcacc11a871644d6b99c00a376978a1475d33fdf202b9423102c03d76a0","game":"CRIMSON RAN EP9","dll":"audioses.dll","status":"active","date":"2026-05-10"}
+    {"hash":"6678d33f5ee3338a4eb4a7feb12e2aa812d14f6865fe6877dac7e7b0a7840115","game":"CRIMSON RAN EP9","dll":"audioses.dll","status":"active","date":"2026-05-10"}
   ]
 }
