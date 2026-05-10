@@ -10,3 +10,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Dangerous Handle Detected (PID: 16940)","date":"05/11/2026 01:14:39 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering at GameCode@4198400 (offset 0x4D5CDC)","date":"05/11/2026 01:29:00 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Blocked Blacklisted Keyword: easyhook32.dll","date":"05/11/2026 01:43:41 AM"}
+{"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"Blocked Blacklisted Keyword: atidx9loader32.dll","date":"05/11/2026 02:15:47 AM"}
