@@ -4,3 +4,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering at GameCode@4198400 (offset 0x38130)","date":"05/10/2026 08:42:56 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering at GameCode@4198400 (offset 0x38130)","date":"05/10/2026 09:32:12 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Blocked DLL Injection: c:\windows\system32\rsaenh.dll","date":"05/10/2026 10:18:43 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Blocked DLL Injection: setupapi.dll","date":"05/10/2026 10:18:45 PM"}
