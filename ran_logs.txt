@@ -7,3 +7,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering Blocked (NtProtectVirtualMemory on Game Code)","date":"05/10/2026 06:03:48 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering at GameCode@4198400 (offset 0x38130)","date":"05/10/2026 06:03:52 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering Blocked (NtProtectVirtualMemory on Game Code)","date":"05/10/2026 06:06:04 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering at GameCode@4198400 (offset 0x38130)","date":"05/10/2026 06:06:08 PM"}
