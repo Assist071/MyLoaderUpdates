@@ -1,5 +1,0 @@
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering Blocked (NtProtectVirtualMemory on Game Code)","date":"05/10/2026 04:34:29 PM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering Blocked (NtProtectVirtualMemory on Game Code)","date":"05/10/2026 04:46:52 PM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Suspension Attack Detected (Gap: 14298ms)","date":"05/10/2026 04:51:53 PM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Suspension Attack Detected (Gap: 2205ms)","date":"05/10/2026 04:52:18 PM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Suspension Attack Detected (Gap: 1801ms)","date":"05/10/2026 04:52:32 PM"}
