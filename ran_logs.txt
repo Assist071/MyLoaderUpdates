@@ -1,0 +1,1 @@
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Shellcode/Injected exec page at 0x15E70000 (size=4096, prot=0x20)","date":"05/10/2026 03:17:35 PM"}
