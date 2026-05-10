@@ -1,2 +1,3 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Detection: Process Snooping Detected (Unauthorized Handle Access)","date":"05/10/2026 12:33:17 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Detection: Unauthorized DLL Found in Game Folder: audioses.dll","date":"05/10/2026 12:36:20 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Detection: Unauthorized DLL Found in Game Folder: audioses.dll","date":"05/10/2026 12:36:30 PM"}
