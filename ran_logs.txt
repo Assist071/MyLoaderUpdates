@@ -1,2 +1,3 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Shellcode injected during suspension at 0x18A60000 (size=4096, prot=0x20)","date":"05/10/2026 03:48:11 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Shellcode injected during suspension at 0x1A530000 (size=4096, prot=0x20)","date":"05/10/2026 04:04:12 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Shellcode injected during suspension at 0x1A540000 (size=4096, prot=0x20)","date":"05/10/2026 04:04:27 PM"}
