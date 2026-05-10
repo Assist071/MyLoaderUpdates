@@ -8,3 +8,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Detected Sideloaded Malicious DLL: umpdc.dll","date":"05/11/2026 04:24:51 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Blocked Forbidden DLL: d3dref9.dll","date":"05/11/2026 04:25:48 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"STARTUP TAMPER DETECTED: RAM [0xE9] != Disk [0xD8] at RVA 0x39130","date":"05/11/2026 04:26:16 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering at GameCode@4198400 (offset 0x38130)","date":"05/11/2026 04:56:14 AM"}
