@@ -1,3 +1,0 @@
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Unauthorized DLL Load Blocked: setupapi.dll","date":"05/10/2026 12:28:37 PM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Detection: System Hook Detected (NtQuerySystemInformation)","date":"05/10/2026 12:29:43 PM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Startup Detection: System Hook Detected (NtQuerySystemInformation)","date":"05/10/2026 12:31:14 PM"}
