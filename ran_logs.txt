@@ -114,3 +114,4 @@ Current: 0x16843016","date":"05/11/2026 09:16:30 PM"}
 Address: 0x03E89500
 Expected: 0x1143930880
 Current: 0x1169004544","date":"05/11/2026 09:20:01 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"RawByteGuard Initialized. Found 75225 slots.","date":"05/11/2026 09:22:03 PM"}
