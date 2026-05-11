@@ -82,3 +82,4 @@ Modified Value: 1.000000","date":"05/11/2026 08:58:32 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"RawByteGuard Initialized. Found 75425 slots.","date":"05/11/2026 09:12:01 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"RawByteGuard Ready! (FAST 3s MODE) Monitoring 74201 locations.","date":"05/11/2026 09:12:06 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering at GameCode@4198400 (offset 0x324C0)","date":"05/11/2026 09:12:23 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"RawByteGuard Initialized. Found 80367 slots.","date":"05/11/2026 09:12:34 PM"}
