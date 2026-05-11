@@ -29,3 +29,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Thread Integrity Monitor Active (Total: 21, CRC32 Protected: 21)","date":"05/11/2026 03:35:16 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Blocked Malicious Keyword: c:\program files\wpe64\2.1.7\easyhook32.dll","date":"05/11/2026 03:35:23 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Thread Integrity Monitor Active (Total: 23, CRC32 Protected: 23)","date":"05/11/2026 03:36:19 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Detected Sideloaded Malicious DLL: d3dref9.dll","date":"05/11/2026 03:36:22 PM"}
