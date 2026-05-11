@@ -134,3 +134,4 @@ Modified Value: 0.000000 (Raw: 0x16843012)","date":"05/11/2026 09:25:12 PM"}
 Address: 0x03E89500
 Original: Int: 1143930880 | Float: 700.000 | Hex: 0x442F0000
 Modified: Int: 1203982208 | Float: 99999.000 | Hex: 0x47C34F80","date":"05/11/2026 09:47:00 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"RawByteGuard Initialized. Found 75231 slots.","date":"05/11/2026 09:47:35 PM"}
