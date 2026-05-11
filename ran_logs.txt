@@ -6,3 +6,7 @@ Modified: Int: 1061866188 | Float: 0.792 | Hex: 0x3F4ACACC","date":"05/11/2026 1
 Address: 0x00F15760
 Original: Int: 3212836864 | Float: -1.000 | Hex: 0xBF800000
 Modified: Int: 3218415288 | Float: -1.665 | Hex: 0xBFD51EB8","date":"05/11/2026 10:52:59 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Value Tamper Detected!
+Address: 0x00F15760
+Original: Int: 3212836864 | Float: -1.000 | Hex: 0xBF800000
+Modified: Int: 3218415288 | Float: -1.665 | Hex: 0xBFD51EB8","date":"05/11/2026 10:53:03 PM"}
