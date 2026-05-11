@@ -16,3 +16,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Cheat Engine Detected (steam.exe )","date":"05/11/2026 04:14:34 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Modified Process Tool","date":"05/11/2026 04:14:54 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Dangerous Handle Detected (PID: 24656)","date":"05/11/2026 07:50:05 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tamper Detected! Variable [GameConfig_Main] has been modified. (Original: 80.000000, Current: 0.000000)","date":"05/11/2026 07:56:34 PM"}
