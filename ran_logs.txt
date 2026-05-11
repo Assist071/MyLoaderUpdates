@@ -114,3 +114,4 @@ Modified: Int: 2147430912 | Float: nan","date":"05/12/2026 03:29:33 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[PRIVATE_MEMORY] Suspicious Activity: 4 regions found (Score: 200)","date":"05/12/2026 03:31:57 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Global Memory Tampering Detected (Multi-Section CRC Mismatch)","date":"05/12/2026 03:32:01 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .text crc=0xD714AFB4 size=9021874","date":"05/12/2026 03:32:21 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .rdata crc=0xA4C2FB22 size=1573712","date":"05/12/2026 03:32:23 AM"}
