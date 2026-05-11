@@ -16,3 +16,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Thread Integrity Monitor Active (Total: 21, CRC32 Protected: 21)","date":"05/11/2026 03:11:34 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Process Hacker Component Detected (PhTreeNew)","date":"05/11/2026 03:11:40 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Thread Integrity Monitor Active (Total: 23, CRC32 Protected: 23)","date":"05/11/2026 03:13:55 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Modified Process Tool: Thread Termination Detected (TID: 5816)","date":"05/11/2026 03:14:55 PM"}
