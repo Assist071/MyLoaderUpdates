@@ -4,3 +4,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[PRIVATE_MEMORY] [INSTANT_KICK] base=0x191F0000 size=4096","date":"05/12/2026 03:44:27 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Security Violation: Security Violation: Unauthorized executable code injection detected.","date":"05/12/2026 03:44:29 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .text crc=0xD714AFB4 size=9021874","date":"05/12/2026 03:52:57 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .rdata crc=0x117B936A size=1573712","date":"05/12/2026 03:52:59 AM"}
