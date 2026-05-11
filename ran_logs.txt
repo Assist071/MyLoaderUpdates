@@ -1,1 +1,2 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Modified Process Tool","date":"05/11/2026 03:54:06 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Cheat Engine Detected (Steam.exe)","date":"05/11/2026 03:54:25 PM"}
