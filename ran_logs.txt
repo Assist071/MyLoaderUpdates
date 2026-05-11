@@ -121,3 +121,4 @@ Current: 0x1169004544","date":"05/11/2026 09:20:01 PM"}
 Address: 0x03E88C64
 Original Value: 0.000000 (Raw: 0x16843009)
 Modified Value: 0.000000 (Raw: 0x16843012)","date":"05/11/2026 09:22:42 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"RawByteGuard Initialized. Found 75213 slots.","date":"05/11/2026 09:24:39 PM"}
