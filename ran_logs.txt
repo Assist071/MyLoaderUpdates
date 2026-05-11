@@ -163,3 +163,7 @@ Modified: Int: 152241093 | Float: 0.000 | Hex: 0x091303C5","date":"05/11/2026 10
 Address: 0x00F70450
 Original: Int: 280036312 | Float: 0.000 | Hex: 0x10B103D8
 Modified: Int: 684361720 | Float: 0.000 | Hex: 0x28CA87F8","date":"05/11/2026 10:01:34 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Value Tamper Detected!
+Address: 0x0400A29C
+Original: Int: 152290031 | Float: 0.000 | Hex: 0x0913C2EF
+Modified: Int: 152318093 | Float: 0.000 | Hex: 0x0914308D","date":"05/11/2026 10:02:01 PM"}
