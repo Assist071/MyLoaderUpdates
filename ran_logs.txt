@@ -2,3 +2,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .rdata crc=0xCC6574D6 size=1573712","date":"05/12/2026 03:44:23 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .data crc=0x7E41C137 size=191545836","date":"05/12/2026 03:44:25 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[PRIVATE_MEMORY] [INSTANT_KICK] base=0x191F0000 size=4096","date":"05/12/2026 03:44:27 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Security Violation: Security Violation: Unauthorized executable code injection detected.","date":"05/12/2026 03:44:29 AM"}
