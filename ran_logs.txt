@@ -6,3 +6,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Cheat Engine Detected (SHAHADAT AHMED.exe)","date":"05/11/2026 03:57:21 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"STARTUP TAMPER DETECTED: RAM [0x90] != Disk [0xE8] at RVA 0x4FBC95","date":"05/11/2026 03:58:35 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Detected Sideloaded Malicious DLL: d3dref9.dll","date":"05/11/2026 03:59:19 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Detected Sideloaded Malicious DLL: umpdc.dll","date":"05/11/2026 03:59:33 PM"}
