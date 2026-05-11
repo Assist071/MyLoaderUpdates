@@ -26,3 +26,4 @@ Original: Int: 209044240 | Float: 0.000 | Hex: 0x0C75C310
 Modified: Int: 444042128 | Float: 0.000 | Hex: 0x1A778B90","date":"05/11/2026 10:37:49 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Global Memory Tampering Detected (Multi-Section CRC Mismatch)","date":"05/11/2026 10:38:54 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"STARTUP TAMPER DETECTED: RAM [0x90] != Disk [0xC7] at RVA 0x334BC","date":"05/11/2026 10:39:46 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Global Memory Tampering Detected (Multi-Section CRC Mismatch)","date":"05/11/2026 10:40:13 PM"}
