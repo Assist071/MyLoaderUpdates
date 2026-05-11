@@ -29,3 +29,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: (steam.exe )","date":"05/12/2026 03:01:41 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .text crc=0xD714AFB4 size=9021874","date":"05/12/2026 03:02:08 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .rdata crc=0x7E278C7E size=1573712","date":"05/12/2026 03:02:10 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[PRIVATE_MEMORY] Suspicious Activity: 4 regions found (Score: 200)","date":"05/12/2026 03:02:15 AM"}
