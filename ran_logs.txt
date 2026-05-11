@@ -105,3 +105,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Modified Process Tool: Thread Suspend (Gap: 6596ms)","date":"05/12/2026 03:07:43 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[PRIVATE_MEMORY] Suspicious Activity: 4 regions found (Score: 200)","date":"05/12/2026 03:07:46 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .text crc=0xD714AFB4 size=9021874","date":"05/12/2026 03:07:55 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .rdata crc=0xEE19623C size=1573712","date":"05/12/2026 03:07:58 AM"}
