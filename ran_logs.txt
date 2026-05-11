@@ -1,0 +1,4 @@
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Value Tamper Detected!
+Address: 0x00F15830
+Original: Int: 1065353216 | Float: 1.000 | Hex: 0x3F800000
+Modified: Int: 1061866188 | Float: 0.792 | Hex: 0x3F4ACACC","date":"05/11/2026 10:52:53 PM"}
