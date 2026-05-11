@@ -26,3 +26,7 @@
 Address: 0x03DEEC1C
 Original Value: 80.000000
 Modified Value: 1231213.000000","date":"05/11/2026 08:33:40 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Value Tamper Detected!
+Address: 0x00F15760
+Original Value: -1.000000
+Modified Value: -1.665000","date":"05/11/2026 08:35:27 PM"}
