@@ -13,4 +13,5 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Cheat Engine Detected (Steam.exe)","date":"05/11/2026 04:07:56 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Modified Process Tool: Thread Suspend (Gap: 5793ms)","date":"05/11/2026 04:12:09 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Modified Process Tool: Thread Suspend (Gap: 5401ms)","date":"05/11/2026 04:12:27 PM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Cheat Engine Detected (steam.exe )","date":"05/11/2026 04:14:34 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Cheat Engine Detected (steam.exeÂ )","date":"05/11/2026 04:14:34 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Modified Process Tool","date":"05/11/2026 04:14:54 PM"}
