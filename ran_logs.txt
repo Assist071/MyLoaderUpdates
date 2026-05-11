@@ -2,3 +2,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Cheat Engine Detected (Steam.exe)","date":"05/11/2026 03:54:25 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Cheat Engine Detected (taskmgr.exe)","date":"05/11/2026 03:54:49 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Cheat Engine Detected (Chrome.exe)","date":"05/11/2026 03:55:39 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Cheat Engine Detected (??class????11115.exe)","date":"05/11/2026 03:56:36 PM"}
