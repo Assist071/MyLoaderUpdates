@@ -34,3 +34,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Detected Sideloaded Malicious DLL: d3dref9.dll","date":"05/11/2026 03:41:46 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Thread Integrity Monitor Active (Total: 21, CRC32 Protected: 21)","date":"05/11/2026 03:41:57 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Thread Integrity Monitor Active (Total: 21, CRC32 Protected: 21)","date":"05/11/2026 03:44:04 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Cheat Engine Detected (Literal Folder Scan)","date":"05/11/2026 03:44:12 PM"}
