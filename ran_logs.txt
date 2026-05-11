@@ -24,3 +24,4 @@ Modified: Int: 1197015808 | Float: 55555.000 | Hex: 0x47590300","date":"05/11/20
 Address: 0x058627AC
 Original: Int: 209044240 | Float: 0.000 | Hex: 0x0C75C310
 Modified: Int: 444042128 | Float: 0.000 | Hex: 0x1A778B90","date":"05/11/2026 10:37:49 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Global Memory Tampering Detected (Multi-Section CRC Mismatch)","date":"05/11/2026 10:38:54 PM"}
