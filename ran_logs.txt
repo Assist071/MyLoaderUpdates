@@ -8,3 +8,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Thread Integrity Monitor Active (Total: 23, CRC32 Protected: 23)","date":"05/11/2026 03:08:14 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Modified Process Tool: Thread Suspend (Gap: 6328ms)","date":"05/11/2026 03:08:36 PM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Thread Integrity Monitor Active (Total: 21, CRC32 Protected: 21)","date":"05/11/2026 03:09:37 PM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Memory Tampering at GameCode@4198400 (offset 0x38130)","date":"05/11/2026 03:09:53 PM"}
