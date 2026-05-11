@@ -1,3 +1,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .text crc=0xD714AFB4 size=9021874","date":"05/12/2026 03:13:14 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .data crc=0x72AD9583 size=191545836","date":"05/12/2026 03:13:19 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[PRIVATE_MEMORY] Suspicious Activity: 4 regions found (Score: 200)","date":"05/12/2026 03:13:22 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Security Violation: Section Integrity Violation: .data modified!","date":"05/12/2026 03:13:24 AM"}
