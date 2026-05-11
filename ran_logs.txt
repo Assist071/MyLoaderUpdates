@@ -152,3 +152,4 @@ Modified: Int: 1151664128 | Float: 1320.000","date":"05/12/2026 03:33:54 AM"}
 Address: 0x00F15760
 Original: Int: 3212836864 | Float: -1.000
 Modified: Int: 3218415288 | Float: -1.665","date":"05/12/2026 03:34:56 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[MEMORY] [OK / BASELINE] .text crc=0xD714AFB4 size=9021874","date":"05/12/2026 03:39:00 AM"}
