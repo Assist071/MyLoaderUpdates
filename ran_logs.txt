@@ -6,3 +6,4 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[PRIVATE_MEMORY] [SUSPICIOUS] base=0x1A520000 size=4096 score=200","date":"05/12/2026 02:59:06 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[PRIVATE_MEMORY] [SUSPICIOUS] base=0x1A530000 size=4096 score=250","date":"05/12/2026 02:59:07 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[PRIVATE_MEMORY] [SUSPICIOUS] base=0x1A540000 size=4096 score=300","date":"05/12/2026 02:59:09 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Security Violation: Unauthorized code injection detected in private memory (Score Limit).","date":"05/12/2026 02:59:11 AM"}
