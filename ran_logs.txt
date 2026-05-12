@@ -57,27 +57,28 @@
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 03:14:56 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 03:15:00 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .rsrc | Baseline Ready","date":"05/13/2026 03:15:02 AM"}
-{"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED]  ÃÂÃÂ*{ÃÂÃÂ£u) | Baseline Ready","date":"05/13/2026 03:15:05 AM"}
+{"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED]  ÃÂÃÂÃÂÃÂ*{ÃÂÃÂÃÂÃÂ£u) | Baseline Ready","date":"05/13/2026 03:15:05 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 03:25:45 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 03:25:47 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 03:25:51 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rsrc | Baseline Ready","date":"05/13/2026 03:25:53 AM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  ÃÂ*{ÃÂ£u) | Baseline Ready","date":"05/13/2026 03:25:55 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  ÃÂÃÂ*{ÃÂÃÂ£u) | Baseline Ready","date":"05/13/2026 03:25:55 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Modified Process Tool","date":"05/13/2026 03:25:58 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 03:25:12 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 03:25:16 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .rsrc | Baseline Ready","date":"05/13/2026 03:25:18 AM"}
-{"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED]  Â*{Â£u) | Baseline Ready","date":"05/13/2026 03:25:20 AM"}
+{"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED]  ÃÂ*{ÃÂ£u) | Baseline Ready","date":"05/13/2026 03:25:20 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"Modified Process Tool: Thread Suspend (Gap: 4963ms)","date":"05/13/2026 03:25:46 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 03:28:05 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 03:28:08 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 03:28:12 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .rsrc | Baseline Ready","date":"05/13/2026 03:28:14 AM"}
-{"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED]  *{£u) | Baseline Ready","date":"05/13/2026 03:28:17 AM"}
+{"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED]  Â*{Â£u) | Baseline Ready","date":"05/13/2026 03:28:17 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"Modified Process Tool: Thread Suspend (Gap: 5850ms)","date":"05/13/2026 03:28:39 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"Blocked Malicious Keyword: c:\windows\system32\driverstore\filerepository\u0420529.inf_amd64_94ad5a6c4d1a04e2\b419765\atidx9loader32.dll","date":"05/13/2026 03:30:02 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 03:30:44 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 03:30:46 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 03:30:50 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .rsrc | Baseline Ready","date":"05/13/2026 03:30:52 AM"}
-{"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED]  �*{�u) | Baseline Ready","date":"05/13/2026 03:30:54 AM"}
+{"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED]  *{£u) | Baseline Ready","date":"05/13/2026 03:30:54 AM"}
+{"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"Blocked Malicious Keyword: c:\windows\system32\driverstore\filerepository\u0420529.inf_amd64_94ad5a6c4d1a04e2\b419765\atidx9loader32.dll","date":"05/13/2026 03:31:12 AM"}
