@@ -62,4 +62,5 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 04:05:56 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 04:05:59 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rsrc | Baseline Ready","date":"05/13/2026 04:06:01 AM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  Ž*{£u) | Baseline Ready","date":"05/13/2026 04:06:04 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  ï¿½*{ï¿½u) | Baseline Ready","date":"05/13/2026 04:06:04 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Unauthorized Console Tool","date":"05/13/2026 04:06:08 AM"}
