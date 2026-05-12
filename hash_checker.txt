@@ -1,5 +1,6 @@
 {
   "entries": [
-    {"hash":"371453fd94eb8faa2af703747b3fdae4b34358ec8a2d3e7b3164a3c0c42ed565","game":"Crimson Ran","dll":"audioses.dll","status":"active","date":"2026-05-13"}
+    {"hash":"371453fd94eb8faa2af703747b3fdae4b34358ec8a2d3e7b3164a3c0c42ed565","game":"Crimson Ran","dll":"audioses.dll","status":"active","date":"2026-05-13"},
+    {"hash":"803d52f55604f12798f23f1eb2f3edaf5f939a7d20721befc70ebfe3b5e90f3d","game":"crimson","dll":"audioses.dll","status":"active","date":"2026-05-13"}
   ]
 }
