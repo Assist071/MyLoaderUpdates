@@ -1,5 +1,5 @@
 {
   "entries": [
-    {"hash":"4ddb607cc0f36c37bb96d22c854312d2c796eb456ddaa4e350cfe0301c450dfe","game":"crim son","dll":"audioses.dll","status":"active","date":"2026-05-13"}
+    ,{"type":"blacklist","list":"d3dref9.dll, umpdc.dll"}
   ]
 }
