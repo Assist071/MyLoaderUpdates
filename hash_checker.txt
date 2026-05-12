@@ -1,6 +1,6 @@
 {
   "entries": [
-    {"hash":"acc691d7de4e81a5855bc4f12724c1ceee1ff62410606ade4c28e7ec5b111bc6","game":"CRIMSON RAN EP9","dll":"audioses.dll","status":"active","date":"2026-05-10"}
+    {"hash":"5a49fbf56bd4d77eb52aa58f20cf2feb0ed9132b9cc199b414a371129114217c","game":"CRIMSON RAN EP9","dll":"audioses.dll","status":"active","date":"2026-05-10"}
     ,{"type":"blacklist","list":"d3dref9.dll, umpdc.dll"}
   ]
 }
