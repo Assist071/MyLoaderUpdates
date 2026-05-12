@@ -2,23 +2,24 @@
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 03:39:19 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 03:39:22 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rsrc | Baseline Ready","date":"05/13/2026 03:39:24 AM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  Ã…Â½*{Ã‚Â£u) | Baseline Ready","date":"05/13/2026 03:39:26 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  Ãƒâ€¦Ã‚Â½*{Ãƒâ€šÃ‚Â£u) | Baseline Ready","date":"05/13/2026 03:39:26 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Modified Process Tool","date":"05/13/2026 03:39:28 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"Dangerous Handle Detected (PID: 7072)","date":"05/13/2026 03:38:55 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 03:44:55 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 03:44:57 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 03:45:00 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rsrc | Baseline Ready","date":"05/13/2026 03:45:02 AM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  Å½*{Â£u) | Baseline Ready","date":"05/13/2026 03:45:04 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  Ã…Â½*{Ã‚Â£u) | Baseline Ready","date":"05/13/2026 03:45:04 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Modified Process Tool","date":"05/13/2026 03:45:06 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 03:45:24 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 03:45:25 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 03:45:29 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rsrc | Baseline Ready","date":"05/13/2026 03:45:31 AM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  Ž*{£u) | Baseline Ready","date":"05/13/2026 03:45:33 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  Å½*{Â£u) | Baseline Ready","date":"05/13/2026 03:45:33 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: (Steam.exe)","date":"05/13/2026 03:46:06 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 03:46:27 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 03:46:29 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 03:46:33 AM"}
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED] .rsrc | Baseline Ready","date":"05/13/2026 03:46:35 AM"}
-{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  �*{�u) | Baseline Ready","date":"05/13/2026 03:46:36 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[SHIELD] [OPTIMIZED]  Ž*{£u) | Baseline Ready","date":"05/13/2026 03:46:36 AM"}
+{"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"Malicious Tool Detected: Modified Process Tool","date":"05/13/2026 03:46:39 AM"}
