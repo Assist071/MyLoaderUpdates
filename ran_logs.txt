@@ -78,3 +78,4 @@
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"Blocked Malicious Keyword: c:\windows\system32\driverstore\filerepository\u0420529.inf_amd64_94ad5a6c4d1a04e2\b419765\atidx9loader32.dll","date":"05/13/2026 03:30:02 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 03:30:44 AM"}
 {"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 03:30:46 AM"}
+{"hwid":"S-1-5-21-287970476-1219186485-737194144-1001","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 03:30:50 AM"}
