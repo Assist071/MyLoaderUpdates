@@ -1,6 +1,5 @@
 {
   "entries": [
-    {"hash":"33241123123123123","game":"ran online","dll":"kumag.dlll","status":"active","date":"2026-05-13"}
     ,{"type":"blacklist","list":"d3dref9.dll, umpdc.dll"}
   ]
 }
