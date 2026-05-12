@@ -1,6 +1,5 @@
 {
   "entries": [
-    {"hash":"803d52f55604f12798f23f1eb2f3edaf5f939a7d20721befc70ebfe3b5e90f3d5","game":"kumag.dll","dll":"amgaek","status":"active","date":"05/13/2026 04:28 AM"}
-    ,{"type":"blacklist","list":"d3dref9.dll, umpdc.dll"}
+    {"hash":"4ddb607cc0f36c37bb96d22c854312d2c796eb456ddaa4e350cfe0301c450dfe","game":"crim son","dll":"audioses.dll","status":"active","date":"2026-05-13"}
   ]
 }
