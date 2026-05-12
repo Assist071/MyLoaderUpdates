@@ -1,6 +1,6 @@
 {
   "entries": [
-    {"hash":"803d52f55604f12798f23f1eb2f3edaf5f939a7d20721befc70ebfe3b5e90f3d","game":"kumag.dll","dll":"amgaek","status":"active","date":"2026-05-13"}
+    {"hash":"803d52f55604f12798f23f1eb2f3edaf5f939a7d20721befc70ebfe3b5e90f3d5","game":"kumag.dll","dll":"amgaek","status":"active","date":"2026-05-13"}
     ,{"type":"blacklist","list":"d3dref9.dll, umpdc.dll"}
   ]
 }
