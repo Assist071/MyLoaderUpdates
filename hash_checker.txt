@@ -1,5 +1,5 @@
 {
   "entries": [
-    ,{"type":"blacklist","list":"umpdc.dll"}
+    ,{"type":"blacklist","list":"umpdc.dll, d3dref9"}
   ]
 }
