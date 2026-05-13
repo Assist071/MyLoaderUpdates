@@ -63,3 +63,4 @@
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Blocked Forbidden DLL: d3dref9.dll","date":"05/13/2026 07:13:02 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Malicious Tool Detected: (steam.exe )","date":"05/13/2026 07:14:31 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 07:15:43 PM"}
+{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 07:15:45 PM"}
