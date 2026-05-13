@@ -3,7 +3,7 @@
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 06:26:27 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 06:29:34 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 06:29:37 PM"}
-{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Malicious Tool Detected: (steam.exeÂ )","date":"05/13/2026 06:29:48 PM"}
+{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Malicious Tool Detected: (steam.exeÃ‚Â )","date":"05/13/2026 06:29:48 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 06:30:13 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 06:30:15 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 06:30:18 PM"}
@@ -61,7 +61,7 @@
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 07:11:55 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 07:11:59 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Blocked Forbidden DLL: d3dref9.dll","date":"05/13/2026 07:13:02 PM"}
-{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Malicious Tool Detected: (steam.exe )","date":"05/13/2026 07:14:31 PM"}
+{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Malicious Tool Detected: (steam.exeÂ )","date":"05/13/2026 07:14:31 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 07:15:43 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 07:15:45 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 07:15:50 PM"}
@@ -74,4 +74,5 @@
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 07:58:06 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 07:58:10 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/14/2026 07:13:06 AM"}
-{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Malicious Tool Detected: (steam.exe�)","date":"05/14/2026 07:13:09 AM"}
+{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Malicious Tool Detected: (steam.exe )","date":"05/14/2026 07:13:09 AM"}
+{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/14/2026 07:13:21 AM"}
