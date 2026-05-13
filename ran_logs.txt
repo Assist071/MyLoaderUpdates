@@ -96,3 +96,4 @@
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/14/2026 07:23:38 AM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Malicious Tool Detected: Modified Process Tool","date":"05/14/2026 07:24:02 AM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/14/2026 07:24:36 AM"}
+{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/14/2026 07:24:38 AM"}
