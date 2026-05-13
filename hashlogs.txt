@@ -1,2 +1,3 @@
 
 {"hwid":"S-1-5-21-4186512261-3085102322-680795051-1001","log":"[AUTH] DENIED: Hash 803d52f55604f12798f23f1eb2f3edaf5f939a7d20721befc70ebfe3b5e90f3d not found (content length: 23)","date":"05/13/2026 05:23:31 AM"}
+{"hwid":"03000200-0400-0500-0006-000700080009","ip":"143.44.184.160","log":"[AUTH] DENIED: Hash 4ddb607cc0f36c37bb96d22c854312d2c796eb456ddaa4e350cfe0301c450dfe not found (content length: 229)","date":"05/13/2026 07:40:19 PM"}
