@@ -10,3 +10,4 @@
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED]  Ĺ˝*{Ĺu) | Baseline Ready","date":"05/13/2026 06:04:02 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Malicious Tool Detected: (steam.exe )","date":"05/13/2026 06:04:08 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 06:04:24 PM"}
+{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 06:04:27 PM"}
