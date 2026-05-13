@@ -2,4 +2,5 @@
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/13/2026 05:34:45 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .data | Baseline Ready","date":"05/13/2026 05:34:49 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rsrc | Baseline Ready","date":"05/13/2026 05:34:51 PM"}
-{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED]  é*{£u) | Baseline Ready","date":"05/13/2026 05:34:53 PM"}
+{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED]  ≈Ω*{≈Åu) | Baseline Ready","date":"05/13/2026 05:34:53 PM"}
+{"hwid":"S-1-5-21-2134125528-1887027329-1783624136-500","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/13/2026 05:45:59 PM"}
