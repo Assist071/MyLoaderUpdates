@@ -1,6 +1,5 @@
 {
   "entries": [
-    {"hash":"803d52f55604f12798f23f1eb2f3edaf5f939a7d20721befc70ebfe3b5e90f3d","game":"N/A","dll":"N/A","status":"active","date":"05/13/2026 12:11 PM"}
-    ,{"type":"blacklist","list":"umpdc.dll, d3dref9"}
+    {"hash":"aa96f3681c9df7e4abd7d68b12102e98dc2c61036f31c4c44db9e8b339b5792a","game":"N/A","dll":"N/A","status":"active","date":"05/15/2026 01:01 AM"}
   ]
 }
