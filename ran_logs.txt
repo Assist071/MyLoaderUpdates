@@ -70,3 +70,4 @@
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/15/2026 05:30:38 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/15/2026 05:31:05 PM"}
 {"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .text | Baseline Ready","date":"05/15/2026 05:33:49 PM"}
+{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"[SHIELD] [OPTIMIZED] .rdata | Baseline Ready","date":"05/15/2026 05:33:51 PM"}
