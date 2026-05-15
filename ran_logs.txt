@@ -1,1 +1,2 @@
 [05/16 04:01] [9B9638A7-6982-DA1B-ACED-D843AE6B2B73] [175.176.54.13] Memory Protection Init: 3 regions
+[05/16 04:01] [9B9638A7-6982-DA1B-ACED-D843AE6B2B73] [175.176.54.13] Malicious Tool Detected: (Steam.exe)
