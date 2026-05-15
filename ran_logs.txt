@@ -1,5 +1,1 @@
-{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Unauthorized Process Attachment Detected","date":"05/15/2026 05:50:34 PM"}
-{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Memory Protection Init: 3 regions","date":"05/15/2026 05:50:48 PM"}
-{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Unauthorized Process Attachment Detected","date":"05/15/2026 05:50:51 PM"}
-{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Memory Protection Init: 3 regions","date":"05/15/2026 05:51:08 PM"}
-{"hwid":"9B9638A7-6982-DA1B-ACED-D843AE6B2B73","ip":"175.176.55.23","log":"Unauthorized Process Attachment Detected","date":"05/15/2026 05:51:11 PM"}
+[05/15 22:42] [AUTH] DENIED: Hash a1dab1f33af9f7b483478b012ba8e7a892f53fd9a0a3694fc5b0706b37c85a52 not found (DB empty or unreachable)
